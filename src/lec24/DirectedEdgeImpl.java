@@ -1,4 +1,4 @@
-package lec22.ex1;
+package lec24;
 
 public class DirectedEdgeImpl implements DirectedEdge {
 

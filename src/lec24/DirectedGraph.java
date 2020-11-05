@@ -1,6 +1,5 @@
-package lec22.ex1;
+package lec24;
 
-import java.util.List;
 import java.util.Set;
 
 public interface DirectedGraph {

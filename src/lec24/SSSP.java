@@ -1,4 +1,4 @@
-package lec22.ex1;
+package lec24;
 
 import java.util.LinkedList;
 import java.util.Queue;
